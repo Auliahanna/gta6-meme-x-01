@@ -8,7 +8,7 @@ A GTA 6 meme for make.fun's "Post a GTA 6 meme on X" bounty. After a 13-year wai
 
 ![The meme: the make.fun ghost on a Leonida beach under the caption "WAITED 13 YEARS FOR GTA VI" and "LAUNCH DAY: I'M SICK, BOSS"](meme.png)
 
-The meme is posted on X from a public account; `POST.json` in this repository holds that post's address, and that post is the entry. Its text:
+The meme is posted on X from a public account; `POST.json` in this repository holds that post's address, and that post is the entry: **https://x.com/CoegAgus/status/2123481959913677292** (posted by @CoegAgus, kept public until the results are out). Its text:
 
 > Waited 13 years for GTA VI. Launch day: *cough* sorry boss, I'm sick — see you in Leonida 🌴
 >
